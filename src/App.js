@@ -6,6 +6,8 @@ import Context from './components/Context';
 import HighOrderComponent from './components/HighOrderComponent';
 import MultiComponents from './components/MultiComponents';
 import DefaultPropsCheck from './components/DefaultPropsCheck';
+import AppWithMouse from './components/AppWithMouse';
+import Counter from './components/Counter';
 
 
 class App extends Component {
@@ -18,6 +20,8 @@ class App extends Component {
         <HighOrderComponent />
         <MultiComponents />
         <DefaultPropsCheck/>
+        <AppWithMouse/>
+        <Counter/>
       </Fragment>
     );
   }

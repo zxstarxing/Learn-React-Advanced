@@ -5,3 +5,6 @@
 * React 高阶组件用法
 * React 返回多个组件的正确方式
 * React 纯净组件的用法
+### 2018-08-03
+* React 错误边界和componentDidCatch生命周期
+* Props Render 代替高阶组件 
